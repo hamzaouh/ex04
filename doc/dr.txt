@@ -1,0 +1,16 @@
+ex04
+
+9/10
+
+un dossier par exercice: bin
+
+(-1) formater le code
+centre_x -> centreX
+sinOfdegrees -> sinOfDegrees
+Inter_compose ->  interCompose
+Mult_12 -> mult12
+...
+voir https://www.dartlang.org/articles/style-guide/
+
+imprimer les titres des exercices
+
